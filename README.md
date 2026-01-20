@@ -1,4 +1,5 @@
-# AI AutoReply for WhatsApp Web Chrome extension
+# AI AutoReply for WhatsApp Web Chrome extension <img width="123" height="128" alt="robot" src="https://github.com/user-attachments/assets/79fc4ea6-3917-4fc2-adb5-f359a4a5a19f" />
+
 
 A Chrome extension that adds context-aware, AI-powered auto replies to WhatsApp Web, designed to behave like a real human.
 
